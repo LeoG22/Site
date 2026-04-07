@@ -1,4 +1,4 @@
-/* Estilo para a página Prata */
+
 body {
   font-family: Arial, sans-serif;
   background-color: #f4f6f8;
@@ -54,7 +54,7 @@ nav a[href="prata.html"]:hover {
   color: #1f1f1f;
   border-color: #aeb0b4;
 }
-/* Cores específicas dos botões */
+
 .btn-vermelho { background-color: #ff8c8c; color: #600; }
 .btn-vermelho:hover { background-color: #e64b56; color: #420000; }
 

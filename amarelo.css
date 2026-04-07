@@ -1,4 +1,3 @@
-/* Estilo para a página Amarelo */
 body {
   font-family: Arial, sans-serif;
   background-color: #f4f6f8;
@@ -54,7 +53,6 @@ nav a[href="amarelo.html"]:hover {
   color: #594800;
   border-color: #ffdd57;
 }
-/* Cores específicas dos botões */
 .btn-vermelho { background-color: #ff8c8c; color: #600; }
 .btn-vermelho:hover { background-color: #e64b56; color: #420000; }
 
